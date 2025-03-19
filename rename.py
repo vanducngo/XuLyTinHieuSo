@@ -10,4 +10,4 @@ def rename_files(directory):
             print(f'Renamed: {filename} -> {new_filename}')
 
 # Thay thế "your_directory_path" bằng đường dẫn thư mục chứa các file
-rename_files("./audio_vad_500/data")
+rename_files("./audio_filtered_spectral_500/data")
